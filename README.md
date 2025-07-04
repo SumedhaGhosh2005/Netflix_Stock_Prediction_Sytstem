@@ -33,7 +33,7 @@ Netflix-Stock-Prediction/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/netflix-stock-prediction.git
+git clone https://github.com/SumedhaGhosh2005/Netflix_Stock_Prediction_Sytstem.git
 cd netflix-stock-prediction
 
 python -m venv venv
